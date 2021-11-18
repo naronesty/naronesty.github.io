@@ -7,4 +7,5 @@ Websites:
 Personal:
 
 * [Github](https://github.com/naronesty/)
+* [Soundcloud](https://soundcloud.com/noakai-aronesty)
 * [noakai@gmail.com](mailto:noakai@gmail.com)
