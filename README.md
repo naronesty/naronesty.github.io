@@ -6,5 +6,5 @@ Websites:
 
 Personal:
 
-* [GitHub](https://github.com/naronesty/)
+* [Github](https://github.com/naronesty/)
 * [noakai@gmail.com](mailto:noakai@gmail.com)
